@@ -2,7 +2,7 @@
 Competition on kaggle: https://www.kaggle.com/competitions/playground-series-s6e1
 
 Predicting students exam score using different models such as: LinearRegression, XGBoost, LightGBM and CatBoost.
-Using hyperparameter tuning techniques: GridSearchCV, RandomizedSearchCV, Optuna.
+Using hyperparameter tuning techniques: GridSearchCV, RandomizedSearchCV, Optuna and one-hot-encoder for categorical features.
 Basic EDA like different distribution plots using MatPlotLib and heatmap using Seaborn.
 Also with the help of FastAPI and Docker deploying our model on site(possibly).
 
